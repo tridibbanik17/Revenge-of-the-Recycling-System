@@ -19,4 +19,5 @@
 
 ### Quanser Interactive Labs software powers the simulated virtual environment.
 
-[Watch video on how Q-Arm transfers a container from servo table to Q-bot's hopper.](./ServoTable_to_Hopper.mp4)
+[Watch the video on how Q-Arm transfers a container from the servo table to Q-bot's hopper.](./ServoTable_to_Hopper.mp4)
+[Watch the video on the deposit process of containers after the target bin color is detected by the color sensor.](./DepositContainers_to_TargetBin.mp4)
