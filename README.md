@@ -1,12 +1,15 @@
-This repository contains a Python program that controls a Q-Arm to sort various containers differentiated by their masses and build materials. 
+# Authors: Tridib Banik & Benji Switzman, McMaster University, Engineering I.
 
-The program also controls the Q-bot to follow a specific path detected by colour sensors mounted on the Q-bot and dump the previously picked containers to one of four recyciling bins. 
+# This Python program controls a Q-Arm to sort various containers differentiated by their masses, build materials and container's destination. 
 
-The correct bin is detected by the colour sensors mounted on the Q-bot. 
+# The program also controls the Q-bot to follow a specific yellow line detected by IR sensors mounted on the Q-bot 
+# and dump the previously picked containers into one of four recycling bins differentiated by the bin colours (red, green, blue, and white). 
 
-After dumping is completed, the Q-bot returns to the home position and a new cycle of sorting and recycling begins.
+# The colour sensors mounted on the Q-bot detect the correct bin. 
 
-An infinite number of cycles will run unless the user terminates the program. Quanser powers the simulated virtual environment.
+# After dumping is completed, the Q-bot returns to the home position and a new cycle of sorting and recycling begins.
+
+# An infinite number of cycles will run unless the user terminates the program. Quanser powers the simulated virtual environment.
 
 # Revenge-of-the-Recycling-System
 #Final Virtual Environment Code 
