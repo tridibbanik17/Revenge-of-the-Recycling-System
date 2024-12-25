@@ -12,3 +12,5 @@
 ### An infinite number of cycles will run unless the user terminates the program. 
 
 ### Quanser Interactive Labs software powers the simulated virtual environment.
+
+[Watch the video](./ServoTable_to_Hopper.mp4)
