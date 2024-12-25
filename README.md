@@ -11,4 +11,4 @@
 
 ### An infinite number of cycles will run unless the user terminates the program. 
 
-### Quanser powers the simulated virtual environment.
+### Quanser Interactive Labs software powers the simulated virtual environment.
