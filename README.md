@@ -6,7 +6,7 @@
 
 #### The Q-bot's hopper can carry a maximum of 3 containers.
 
-#### If the max number of containers is reached, or a different type of container is served in the table, the Q-Arm stops and Q-bot starts moving.
+#### If the max number of containers is reached, or a different type of container is served in the table, the Q-Arm stops and the Q-bot starts moving.
 
 #### The program also controls the Q-bot to follow a specific yellow line detected by IR sensors mounted on the Q-bot 
 #### and dump the previously picked containers into one of four recycling bins differentiated by the bin colours (red, green, blue, and white). 
