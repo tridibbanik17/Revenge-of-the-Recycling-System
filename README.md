@@ -56,8 +56,6 @@ This Python program simulates a recycling system using a Q-Arm and a Q-Bot withi
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/user-attachments/assets/721b7fb3-e480-4809-9023-fd48b82b1f8c)
-
 The project utilizes the `Common.simulation_project_library` to interface with the Quanser Interactive Labs environment. The `main.py` script orchestrates the interaction between the Q-Arm, servo table, and Q-Bot.
 
 - **Q-Arm:** Responsible for picking and placing containers based on their attributes.
