@@ -5,9 +5,11 @@
   <p align="center">
     Controls a Q-Arm and Q-Bot to sort and recycle containers in a simulated environment.
     <br />
-     <a href="https://github.com/tridibbanik17/revenge-of-the-recycling-system">GitHub Repository</a>
+     <a href="https://github.com/tridibbanik17/revenge-of-the-recycling-system">GitHub Repository</a><br>
+     <a href="https://www.notion.so/Project-3-Revenge-of-the-Recycling-System-ff665bba9f1842199a552db23e39da63?pvs=4" target="_blank">Project Objectives, Contributions, and Reflection.</a>
   </p>
 </div>
+
 
 <div align="center">
   
