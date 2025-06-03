@@ -19,7 +19,7 @@ _[Watch the video on the deposit process of containers after the target bin colo
 
 _[Watch the video on the Q-bot following a yellow line using Infrared sensors.](./Q-Bot_Movements_using_IR_sensors.mp4)_
 
-_[Virtual Simulation Using Q-Bot and Q-Arm.](./Virtual_Simulation_Using_Q-Bot_and_Q-Arm.mp4)_
+_[Watch the full virtual simulation using Q-Bot and Q-Arm on YouTube.](https://www.youtube.com/watch?v=XYgK-refaHk&t=6s)_
 
 </div>
 
