@@ -19,6 +19,8 @@ _[Watch the video on the deposit process of containers after the target bin colo
 
 _[Watch the video on the Q-bot following a yellow line using Infrared sensors.](./Q-Bot_Movements_using_IR_sensors.mp4)_
 
+_[Virtual Simulation Using Q-Bot and Q-Arm.](./Virtual_Simulation_Using_Q-Bot_and_Q-Arm.mp4)_
+
 </div>
 
 ## Table of Contents
@@ -77,7 +79,7 @@ The project utilizes the `Common.simulation_project_library` to interface with t
 ### Video Demonstration
 Below is a video demonstration of the Quanser Virtual Simulation using Q-Bot and Q-Arm.
 
-[![Virtual Simulation Using Q-Bot and Q-Arm](https://img.youtube.com/vi/XYgK-refaHk/0.jpg)](https://www.youtube.com/watch?v=XYgK-refaHk)
+[![Virtual Simulation Using Q-Bot and Q-Arm](https://img.youtube.com/vi/XYgK-refaHk/0.jpg)](https://www.youtube.com/watch?v=XYgK-refaHk)<br>
 Click the thumbnail to watch the video on YouTube.
 
 ## Getting Started
