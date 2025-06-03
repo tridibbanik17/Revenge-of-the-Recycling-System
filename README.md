@@ -64,6 +64,16 @@ The project utilizes the `Common.simulation_project_library` to interface with t
 - **Servo Table:** Dispenses containers for the Q-Arm to process.
 - **Q-Bot:** Transports containers to the appropriate recycling bins using line following and color sensing.
 
+### List of container attributes is given below:
+| ID | Q-Lab Render | Material | Contamination | Recyclability  | Mass (g) | Target Bin    |
+| -- | ------------ | -------- | ------------- | -------------- | -------- | ------------- |
+| 01 | White bottle | Plastic  | Clean         | Recyclable     | \~9.25   | Bin03 (Blue)  |
+| 02 | Red can      | Metal    | Clean         | Recyclable     | \~15.0   | Bin01 (Red)   |
+| 03 | Blue bottle  | Paper    | Clean         | Recyclable     | \~10.0   | Bin02 (Green) |
+| 04 | White bottle | Plastic  | Dirty         | Non-Recyclable | > 9.25   | Bin04 (White) |
+| 05 | Red can      | Metal    | Dirty         | Recyclable     | > 15.0   | Bin01 (Red)   |
+| 06 | Blue bottle  | Paper    | Dirty         | Non-Recyclable | > 10.0   | Bin04 (White) |
+
 ## Getting Started
 
 ### Prerequisites
