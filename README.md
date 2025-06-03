@@ -76,6 +76,7 @@ The project utilizes the `Common.simulation_project_library` to interface with t
 
 ### Video Demonstration
 Below is a video demonstration of the Quanser Virtual Simulation using Q-Bot and Q-Arm.
+
 [![Virtual Simulation Using Q-Bot and Q-Arm](https://img.youtube.com/vi/XYgK-refaHk/0.jpg)](https://www.youtube.com/watch?v=XYgK-refaHk)
 Click the thumbnail to watch the video on YouTube.
 
